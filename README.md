@@ -9,7 +9,7 @@ Price Data:
 
 Reddit Sentiment:
 
-●	Source: Reddit public JSON API — https://www.reddit.com/r/Bitcoin/hot.json
+●	Source: Reddit public JSON API - https://www.reddit.com/r/Bitcoin/hot.json
 
 ●	Subreddits: r/Bitcoin
 
