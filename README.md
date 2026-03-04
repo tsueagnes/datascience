@@ -1,2 +1,1 @@
-# datascience
-Fun Data Analysis Projects
+Cryptocurrency prices are notoriously volatile, driven by market trends, trading patterns, and the pulse of social media. Using machine learning, can we identify patterns from historical price data and public sentiment across Reddit, news headlines, and social platforms to predict the next day's price movement of a coin, and build a model accurate enough to be meaningfully better than random chance?
