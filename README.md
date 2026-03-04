@@ -4,16 +4,8 @@ Cryptocurrency prices are notoriously volatile, driven by market trends, trading
 
 Price Data:
 
-●	Source: Kaggle BITCOIN Historical Datasets 2018-2026 Binance API
+●	Source: https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024
 
-●	Feature size: 12
-
-●	Feature types: Numerical and date columns containing information about the price, the volume of trades, the open and closing dates as well as open and closing
-trade prices.
-
-●	Open price: We will use this feature to determine if the higher or lower price was impacted by the sentiment of reddit on the previous day
-
-●	Known issues include determining which interval to use along with reddit sentiment analysis. Lining up the dates of the reddit post vs the opening and closing times of bitcoin trading will be difficult to line up as there is no unique value to merge those data points together other than inference and best guess. 
 
 Reddit Sentiment:
 
